@@ -1,1 +1,1 @@
-# 30_day_gen_ai
+# 30 Day Generative AI Bootcamp 
